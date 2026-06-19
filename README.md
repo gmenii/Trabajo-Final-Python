@@ -9,7 +9,7 @@ El proyecto consiste en el desarrollo de dos aplicaciones en Python:
 # Aplicación 1: Sistema de Tickets
 Permite registrar y consultar tickets de soporte mediante un menú interactivo.
 
-## Funcionalidades
+Funcionalidades
 -Alta de tickets.
 -Generación automática de número de ticket.
 -Consulta de tickets por número.
