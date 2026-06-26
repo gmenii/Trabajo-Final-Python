@@ -30,13 +30,14 @@ La aplicación optativa será incorporada durante el desarrollo del proyecto.
 * Python
 * GitHub
 
-## Estructura del proyecto
+## 📂 Estructura del proyecto
 
 ```text
-trabajo-final-python/
+Trabajo-Final-Python/
 │
 ├── tickets.py
 ├── app_optativa.py
+├── tickets/
 └── README.md
 ```
 
