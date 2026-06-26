@@ -1,0 +1,5 @@
+Numero de Ticket: 7499
+Nombre: gabriel
+Sector: tecno3f
+Asunto: pc
+Problema: se descarga rapido

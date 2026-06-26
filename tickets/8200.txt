@@ -1,0 +1,5 @@
+Numero de Ticket: 8200
+Nombre: nicolas
+Sector: despacho
+Asunto: pc
+Problema: no enciende la pc

@@ -1,0 +1,5 @@
+Numero de Ticket: 8595
+Nombre: roberto
+Sector: administracion
+Asunto: microfono
+Problema: el microfono no anda

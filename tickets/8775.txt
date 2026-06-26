@@ -1,0 +1,5 @@
+Numero de Ticket: 8775
+Nombre: alejandra
+Sector: contabilidad
+Asunto: impresora
+Problema: la impresora no tiene tinta

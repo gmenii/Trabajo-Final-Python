@@ -1,0 +1,5 @@
+Numero de Ticket: 9874
+Nombre: giuli
+Sector: administracion
+Asunto: pc
+Problema: la pc no enciende
